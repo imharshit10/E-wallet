@@ -1,6 +1,7 @@
 {
-  "name": "Secrets",
-  "version": "1.0.0",
+  "homepage" : "https://imharshit10.github.io/",
+  "name": "my-website",
+  "version": "0.1.0",
   "description": "",
   "main": "app.js",
   "dependencies": {
