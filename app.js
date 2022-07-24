@@ -60,8 +60,8 @@ passport.deserializeUser(function(id, done) {
 });
 
 passport.use(new GoogleStrategy({
-    clientID: "519882283910-h84205q0qreq27afc3i82kt1ao46d09s.apps.googleusercontent.com",
-    clientSecret: "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",
+    clientID: "",
+    clientSecret: "",
     callbackURL: "http://localhost:3000/auth/google/ezpay",
     userProfileURL: "https://www.googleapis.com/oauth2/v3/userinfo"
   },
